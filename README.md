@@ -1,5 +1,7 @@
 # 👤 Jaymes (Lucidial) 👨‍💻
 
+![](https://komarev.com/ghpvc/?username=Lucidial)
+
 Hey there! 👋 I'm Jaymes, also known as Lucidial on GitHub. I'm a passionate Python developer with a focus on creating free tools that interact with the Roblox API.
 
 ## About Me 📚
