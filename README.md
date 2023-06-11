@@ -1,8 +1,8 @@
 # 👤 Jaymes (Lucidial) 👨‍💻
 
-![](https://komarev.com/ghpvc/?username=Lucidial)
+![](https://komarev.com/ghpvc/?username=Synfail)
 
-Hey there! 👋 I'm Jaymes, also known as Lucidial on GitHub. I'm a passionate Python developer with a focus on creating free tools that interact with the Roblox API.
+Hey there! 👋 I'm Jaymes, also known as Synfail on GitHub. I'm a passionate Python developer with a focus on creating free tools that interact with the Roblox API.
 
 ## About Me 📚
 💻 Python enthusiast
@@ -19,6 +19,6 @@ Feel free to check out my GitHub repositories for more exciting projects! 🚀
 ## Contact 📞
 📧 You can reach out to me via email at jaymes@courvix.com.
 
-💬 Connect with me on Discord: Sip#7744
+💬 Connect with me on Discord: Synfail#7313
 
 I'm always open to collaboration and feedback. Don't hesitate to get in touch! 🙌
