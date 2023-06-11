@@ -1,4 +1,4 @@
-# 👤 Jaymes (Lucidial) 👨‍💻
+# 👤 Jaymes (Synfail) 👨‍💻
 
 ![](https://komarev.com/ghpvc/?username=Synfail)
 
